@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\TGLWidget.o
+./debug\MAINWINDOW.o
+./debug\OPERATOR.o
+./debug\BLOCK.o
+./debug\BLOCK_MATRIX.o
+./debug\PGLWidget.o
+./debug\USERDIALOG.o
+./debug\SCORERECORD.o
+./debug\moc_TGLWidget.o
+./debug\moc_MAINWINDOW.o
+./debug\moc_PGLWidget.o
+./debug\moc_USERDIALOG.o
+./debug\moc_SCORERECORD.o
+);

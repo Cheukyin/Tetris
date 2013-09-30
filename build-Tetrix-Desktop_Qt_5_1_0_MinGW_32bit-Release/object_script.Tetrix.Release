@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\TGLWidget.o
+./release\MAINWINDOW.o
+./release\OPERATOR.o
+./release\BLOCK.o
+./release\BLOCK_MATRIX.o
+./release\PGLWidget.o
+./release\USERDIALOG.o
+./release\SCORERECORD.o
+./release\moc_TGLWidget.o
+./release\moc_MAINWINDOW.o
+./release\moc_PGLWidget.o
+./release\moc_USERDIALOG.o
+./release\moc_SCORERECORD.o
+);
